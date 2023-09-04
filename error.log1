@@ -1,0 +1,10 @@
+ERROR:root:CustomDatabaseError: Error executing SQL query
+ERROR:root:SQL Query: SELECT * FROM non_existent_table
+ERROR:root:CustomDatabaseError: Error executing SQL query
+ERROR:root:SQL Query: SELECT * FROM non_existent_table
+ERROR:root:Division by zero: division by zero
+ERROR:root:Key not found: 'gender'
+ERROR:root:Key not found: 'gender'
+ERROR:root:Index out of range: list index out of range
+ERROR:root:Import error: No module named 'non_existent_module'
+ERROR:root:Module not found error: No module named 'non_existent_module'
